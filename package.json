@@ -1,0 +1,11 @@
+{
+  "name": "keep-note",
+  "version": "1.0.0",
+  "description": "Keep Note is a website that helps users capture their minds and allows them to add notes and lists. It also allows adding a reminder to make sure that the user never misses a thing. It is possible to add labels to notes to quickly organize and get on with it.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "howkmii",
+  "license": "ISC"
+}
